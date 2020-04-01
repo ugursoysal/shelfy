@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "WebApplication3": {
+    "Shelfy": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/vision",
